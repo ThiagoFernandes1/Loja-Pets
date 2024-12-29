@@ -1,1 +1,1 @@
-# Loja
+# Loja Pets
