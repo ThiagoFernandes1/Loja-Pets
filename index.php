@@ -368,7 +368,7 @@ $products = $result->fetch_all(MYSQLI_ASSOC);
                 <h2 class="Fonte-menu">Bem-vindo à nossa loja!</h2>
                 <p class="Fonte-menu">Encontre os melhores produtos com as melhores ofertas.</p>
                 <br><br>   
-               <a href="https://wa.me/5511939314393" target="_blank"> <img src="images/Banner.jpg" href="????" ></a>
+               <a href="https://wa.me/5511983479012" target="_blank"> <img src="images/Banner.jpg" href="????" ></a>
             </div>
   
 
@@ -435,8 +435,8 @@ $products = $result->fetch_all(MYSQLI_ASSOC);
                 </div>
                 <div class="socials">
                     <a href="https://pt-br.facebook.com/s" target="_blank"><i class="fab fa-facebook" ></i></a>
-                    <a href="https://www.instagram.com/_rafhaelcesar_?igsh=anRoemE0NHJ1cndq" target="_blank"><i class="fab fa-instagram"></i></a>
-                    <a href="https://wa.me/5511939314393" target="_blank"><i class="fab fa-whatsapp"></i></a>
+                    <a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a>
+                    <a href="https://wa.me/5511983479012" target="_blank"><i class="fab fa-whatsapp"></i></a>
                 </div>
             </div>
             
